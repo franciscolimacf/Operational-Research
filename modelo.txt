@@ -1,0 +1,15 @@
+n
+m
+B
+T
+F
+a11 a12 a12 ... a1n
+a21 a22 a23 ... a2n
+...
+am1 am2 am3 ... amn
+b1 b2 b3 ... bn
+DMIN1 DMIN2 DMIN3 ... DMINn
+DMAX1 DMAX2 DMAX3 ... DMAXn
+R1 R2 R3 ... Rn
+L1 L2 L3 ... Lm
+C1 C2 C3 ... Cm
